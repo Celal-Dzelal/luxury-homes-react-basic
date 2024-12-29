@@ -1,0 +1,13 @@
+@import "./components/Gallery/Gallery.module.css";
+@import "./components/Header/Header.module.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #d8d7d6;
+  /* width: 100vw; */
+}
