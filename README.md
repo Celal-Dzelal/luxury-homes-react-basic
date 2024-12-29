@@ -4,7 +4,7 @@ A responsive React application that showcases 12 luxury home images. The project
 
 ## Demo
 
-- [Project Demo](./public/LuxuryHome.gif)
+![Demo](./public/LuxuryHome.gif)
 
 ## Project Structure
 
