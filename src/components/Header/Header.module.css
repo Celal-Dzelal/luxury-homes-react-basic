@@ -1,0 +1,25 @@
+.header {
+  /* border: 2px solid red; */
+  margin: 2rem auto;
+  padding: 1rem;
+  justify-items: center;
+  /* width: 100vw; */
+}
+
+.title {
+  color: goldenrod;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  border-radius: 10px;
+  border: none;
+  background-color: #906f5d;
+  cursor: pointer;
+}
+
+.button:hover {
+  transition: 1s;
+  background-color: #caab93;
+}
